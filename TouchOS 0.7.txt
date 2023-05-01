@@ -1,0 +1,4 @@
+- Compatability
+- Comes with TBM BASIC
+- Command changes
+- CLI changes
